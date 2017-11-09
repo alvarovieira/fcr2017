@@ -1,0 +1,8 @@
+prefix=/home/aluno/catkin_ws/devel
+
+Name: fcr2017
+Description: Description of fcr2017
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aluno/catkin_ws/devel/lib 
+Requires: roscpp std_msgs geometry_msgs sensor_msgs tf

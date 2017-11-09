@@ -1,0 +1,51 @@
+[1510248986 428337279] Gazebo multi-robot simulator, version 2.2.3
+Copyright (C) 2012-2014 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+[1510248987 216172699] Init world[default]
+[1510248987 303653750] applying Gaussian noise model with mean 0 and stddev 0.1
+[1510248987 319105057] applying Gaussian noise model with mean 0 and stddev 0.1
+[1510248988 88235057] applying Gaussian noise model with mean 0 and stddev 0.01
+[1510248988 101779511] ODE body for link [Pioneer3at::tilt_link] does not exist, unable to SetEnabled
+[1510248988 101806613] ODE body for link [Pioneer3at::base_link] does not exist, unable to SetEnabled
+[1510248988 102091828] ODE body for link [Pioneer3at::zoom_link] does not exist, unable to SetEnabled
+[1510248988 102096832] ODE body for link [Pioneer3at::tilt_link] does not exist, unable to SetEnabled
+[1510248988 102118249] ODE body for link [Pioneer3at::p3at_front_left_wheel] does not exist, unable to SetEnabled
+[1510248988 102120371] ODE body for link [Pioneer3at::base_link] does not exist, unable to SetEnabled
+[1510248988 102139351] ODE body for link [Pioneer3at::p3at_front_right_wheel] does not exist, unable to SetEnabled
+[1510248988 102141282] ODE body for link [Pioneer3at::base_link] does not exist, unable to SetEnabled
+[1510248988 102164216] ODE body for link [Pioneer3at::p3at_back_left_wheel] does not exist, unable to SetEnabled
+[1510248988 102166236] ODE body for link [Pioneer3at::base_link] does not exist, unable to SetEnabled
+[1510248988 102184896] ODE body for link [Pioneer3at::p3at_back_right_wheel] does not exist, unable to SetEnabled
+[1510248988 102186776] ODE body for link [Pioneer3at::base_link] does not exist, unable to SetEnabled
+[1510248988 102212563] ODE body for link [Pioneer3at::base_link] does not exist, GetGravityMode returns default of 0
+[1510248988 102216712] ODE body for link [Pioneer3at::base_link] does not exist, GetKinematic returns default of 0
+[1510248988 102221064] ODE body for link [Pioneer3at::base_link] does not exist, GetEnabled returns default of 1
+[1510248988 407223482] applying Gaussian noise model with mean 0 and stddev 0.007
+[1510248988 422519474] ODE body for link [Pioneer3at::tilt_link] does not exist, GetGravityMode returns default of 0
+[1510248988 422533937] ODE body for link [Pioneer3at::tilt_link] does not exist, GetKinematic returns default of 0
+[1510248988 422536112] ODE body for link [Pioneer3at::tilt_link] does not exist, GetEnabled returns default of 1
+[1510248988 422547184] ODE body for link [Pioneer3at::zoom_link] does not exist, GetGravityMode returns default of 0
+[1510248988 422548910] ODE body for link [Pioneer3at::zoom_link] does not exist, GetKinematic returns default of 0
+[1510248988 422550373] ODE body for link [Pioneer3at::zoom_link] does not exist, GetEnabled returns default of 1
+[1510248988 422567386] ODE body for link [Pioneer3at::p3at_front_left_wheel] does not exist, GetGravityMode returns default of 0
+[1510248988 422569397] ODE body for link [Pioneer3at::p3at_front_left_wheel] does not exist, GetKinematic returns default of 0
+[1510248988 422570988] ODE body for link [Pioneer3at::p3at_front_left_wheel] does not exist, GetEnabled returns default of 1
+[1510248988 422579466] ODE body for link [Pioneer3at::p3at_front_right_wheel] does not exist, GetGravityMode returns default of 0
+[1510248988 422581200] ODE body for link [Pioneer3at::p3at_front_right_wheel] does not exist, GetKinematic returns default of 0
+[1510248988 422582724] ODE body for link [Pioneer3at::p3at_front_right_wheel] does not exist, GetEnabled returns default of 1
+[1510248988 422591135] ODE body for link [Pioneer3at::p3at_back_left_wheel] does not exist, GetGravityMode returns default of 0
+[1510248988 422592814] ODE body for link [Pioneer3at::p3at_back_left_wheel] does not exist, GetKinematic returns default of 0
+[1510248988 422594339] ODE body for link [Pioneer3at::p3at_back_left_wheel] does not exist, GetEnabled returns default of 1
+[1510248988 422602070] ODE body for link [Pioneer3at::p3at_back_right_wheel] does not exist, GetGravityMode returns default of 0
+[1510248988 422613458] ODE body for link [Pioneer3at::p3at_back_right_wheel] does not exist, GetKinematic returns default of 0
+[1510248988 422615264] ODE body for link [Pioneer3at::p3at_back_right_wheel] does not exist, GetEnabled returns default of 1
+[1510248988 422826662] ODE body for link [Pioneer3at::base_link] does not exist, unable to respond to OnPoseChange
+[1510248988 422835222] ODE body for link [Pioneer3at::tilt_link] does not exist, unable to respond to OnPoseChange
+[1510248988 422837323] ODE body for link [Pioneer3at::zoom_link] does not exist, unable to respond to OnPoseChange
+[1510248988 422839321] ODE body for link [Pioneer3at::p3at_front_left_wheel] does not exist, unable to respond to OnPoseChange
+[1510248988 422841331] ODE body for link [Pioneer3at::p3at_front_right_wheel] does not exist, unable to respond to OnPoseChange
+[1510248988 422843230] ODE body for link [Pioneer3at::p3at_back_left_wheel] does not exist, unable to respond to OnPoseChange
+[1510248988 422845306] ODE body for link [Pioneer3at::p3at_back_right_wheel] does not exist, unable to respond to OnPoseChange
